@@ -1,0 +1,13 @@
+# Introduction
+This repository is a simple attempt to make some art with Processing. The pde file contains some code
+for making particles follow a path to the surface of a shape.
+
+You can left click to cycle through some shapes, and right click to change how the shapes are used. The options
+are that the particles choose a place randomly, non-randomly, or non-randomly and without user intervention.
+
+
+There will be github release for compiled versions for Windows which should be working executables in case you want to 
+play around with this piece.
+
+
+Thank you!
